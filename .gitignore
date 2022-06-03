@@ -279,3 +279,5 @@ notebook.ipynb
 *.ipynb
 2011*
 *.zip
+dataset/training
+dataset/testing
