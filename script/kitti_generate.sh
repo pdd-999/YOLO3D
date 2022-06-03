@@ -1,1 +1,0 @@
-python3 kitti_generate.py --base_path dataset/kitti_raw --seg_class vehicle --process all
